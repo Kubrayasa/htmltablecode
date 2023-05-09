@@ -1,1 +1,50 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, td {
+border: 20px solid purple;
+; 
+ background-color:black ; 
+ 
+}
+</style>
+</head>
+
+
+<body>
+<h1>Tablo Yapma </h1>
+<table style="width:100%" ;  >
+<tr>
+<th  > 
+   
+  <tr>
+  <ul>
+        <th> <li style="color:white;" span style="color:pink;"> <th style="color:pink;"  > Çay </th> </li>    
+         </ul>
+       </tr>
+   <tr>  <th> <li style="color:white;"><th style="color:purple;"  > Kola </th></li>
+   </th> </tr>
+       <tr>
+       <th><li style="color:white;"> <th style="color:pink;"  > Soda</th></li>
+      </tr>
+    <tr>
+        <th><li style="color:white;"><th style="color:purple;"  > Kahve</th> </li>
+     </tr></tr>
+    <tr>
+      <th><li style="color:white;"><th style="color:pink;"  > Ayran</th> </li>
+     </tr></tr>
+    <tr>
+      <th><li style="color:white;"><th style="color:purple;"  >  Fanta </th></li>
+       
+    </tr></tr>
+         
+   </ul></th>
+
+
+</tr>
+
+</table>
+</body>
+</html>
